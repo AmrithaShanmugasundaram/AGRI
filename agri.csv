@@ -1,4 +1,4 @@
-crops,type
+crops,type,ph_value
 rice,clay,6.0,
 wheat,loamy,7.5
 corn,loamy,5.8
