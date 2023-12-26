@@ -1,4 +1,4 @@
-Crop Type,Planting Date,Harvest Date,Yield,Average Temperature,Rainfall,Soil Type,Soil Moisture,Location (Lat, Long),Altitude,Fertilizer Usage,Pesticide Usage
+CropType,PlantingDate,HarvestDate,Yield,AverageTemperature,Rainfall,Soil Type,SoilMoisture,Location (Lat, Long),Altitude,FertilizerUsage,PesticideUsage
 Wheat,2022-04-15,2022-07-01,3500,22.5,150,Loam,25%,(40.7128, -74.0060),1000,150 kg,2 liters
 Corn,2022-05-01,2022-09-15,8000,26.0,200,Sandy,20%,(34.0522, -118.2437),500,200 kg,3 liters
 Rice,2022-06-10,2022-10-30,5000,28.5,180,Clay,30%,(41.8781, -87.6298),600,180 kg,1.5 liters
